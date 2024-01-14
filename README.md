@@ -82,10 +82,6 @@ and other open source libraries such as <https://github.com/plabayo/rama>.
 Sponsors receive perks and depending on your regular contribution it also
 allows you to rely on us for support and consulting.
 
-If you plan to use rora for your commercial resell or package activities you
-need to be a sponsor for a high enough tier to allow you to use it
-for these purposes despite it having a Business License (BSL).
-
 ### Contribute to Open Source
 
 Part of the money we receive from sponsors is used to contribute to other projects
