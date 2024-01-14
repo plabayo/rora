@@ -1,8 +1,11 @@
 [package]
 name = "rora"
 version = "0.0.0"
+license = "MIT OR Apache-2.0"
 edition = "2021"
 description = "[reserved] Free and Open Source Bulletin Board Software"
+repository = "https://github.com/plabayo/rora"
+authors = ["Glen De Cauwsemaecker <glen@plabayo.tech>"]
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
