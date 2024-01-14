@@ -1,0 +1,9 @@
+[package]
+name = "rora"
+version = "0.0.0"
+edition = "2021"
+description = "[reserved] Free and Open Source Bulletin Board Software"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
